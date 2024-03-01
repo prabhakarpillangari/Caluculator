@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Caluculator/static/css/main.4da086e0.css",
+    "main.js": "/Caluculator/static/js/main.92c8a5ac.js",
+    "index.html": "/Caluculator/index.html",
+    "main.4da086e0.css.map": "/Caluculator/static/css/main.4da086e0.css.map",
+    "main.92c8a5ac.js.map": "/Caluculator/static/js/main.92c8a5ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da086e0.css",
+    "static/js/main.92c8a5ac.js"
+  ]
+}
